@@ -1,1 +1,1 @@
-A list containing all my embedded systems projects with codes.
+A list containing all my embedded systems projects created digitally.
