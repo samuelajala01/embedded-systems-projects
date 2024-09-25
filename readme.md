@@ -1,1 +1,1 @@
-A list containing all my embedded systems projects built on Tinkercad.
+A list containing all hardware projects done so far
